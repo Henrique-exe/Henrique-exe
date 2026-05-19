@@ -7,24 +7,24 @@ Olá! Sou o Pablo Henrique. Sou desenvolvedor Full Stack especializado em transf
 Atualmente focado no mercado freelance, busco criar sistemas sob medida, landing pages de alta conversão e atuar como parceiro técnico para empresas ou agências que precisam tirar projetos do papel com transparência e qualidade.
 
 <p align="left">
-    <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <a href="www.linkedin.com/in/henrique-dev-625532357" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:SEU_EMAIL@DOMINIO.COM">
+    <a href="devhenriqu@gmail.com">
         <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/SEU_USUARIO_GITHUB?tab=repositories&sort=stargazers">
+    <a href="https://github.com/henrique-exe?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO_GITHUB?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/henrique-exe?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO_GITHUB?tab=followers">
+    <a href="https://github.com/henrique-exe?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO_GITHUB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/henrique-exe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
